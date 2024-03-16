@@ -1,6 +1,6 @@
 # Hola 👋, my name is Kushagra Kapoor.
 
-## I am an *iOS* developer. <img src="https://img.icons8.com/color/50/000000/developer.png" height = "35"/>
+## I am a *Software* developer. <img src="https://img.icons8.com/color/50/000000/developer.png" height = "35"/>
 
 As a **Computer Science and Engineering** professional, my goal is to solve real-world problems using technical skills. I am a keen learner and like to learn about new technologies.
 - 😄 Pronouns: He/His 
